@@ -38,7 +38,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/erick-bonfati/erick-bonfati/output/snake.svg" alt="Snake animation" />
-
-###
