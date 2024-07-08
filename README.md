@@ -1,3 +1,7 @@
+<p align="left">Hello, my name is Erick, I'm 19 years old and I'm a Front-end Web Developer, here on github I'm sharing my entire learning guide to become an outstanding professional and learn new content!</p>
+
+###
+
 <h2 align="left">My Stats</h2>
 
 ###
